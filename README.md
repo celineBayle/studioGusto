@@ -1,3 +1,5 @@
+The page is visible [here](https://dashing-pothos-015a6a.netlify.app/)
+
 # 3d-particles
 *A starter repository from the Awwwards workshop class "Impress everyone with a 3D particle scene starting from bad models"*
 
